@@ -1,4 +1,5 @@
-print('hi')
+print('hi, you are accessing the python code substantiating the API Post Method which is under construction for
+/n returning mean values of stock prices over a given time period')
 
 
 dictedC = {'qqq':273, 'hi':405}
