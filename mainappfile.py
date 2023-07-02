@@ -9,7 +9,7 @@ api = Api(app)
 
 @app.route('/')
 def afunc():
-    return "hi"
+    return "test get request was success on endpoint port from requreiements.txt., usually 5000"
 
 if __name__=='__main__':
     app.run()
